@@ -1,0 +1,2 @@
+# Privacy Policy – Humo Canae
+Humo Canae is a single-player offline arcade game. It does not require registration, collect personal information, serve ads, or use third-party analytics. Gameplay is processed locally on the device. No gameplay data is transmitted to developer servers. If features change, this policy will be updated. For inquiries, contact the developer through the Microsoft Store listing.
